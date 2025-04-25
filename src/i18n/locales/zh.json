@@ -1,8 +1,8 @@
 {
   "common": {
-    "title": "魔方简历",
-    "subtitle": "AI 驱动简历编辑器",
-    "description": "魔方简历是一款开源的简历编辑器，免费，隐私优先。无需注册登录，数据完全存储在本地，支持数据导出备份，确保您的简历数据随时可用。",
+    "title": "简历-liy",
+    "subtitle": "AI 简历编辑器",
+    "description": "本网站项目为GitHub开源项目：魔方简历",
     "dashboard": "仪表盘",
     "edit": "编辑",
     "delete": "删除",
@@ -11,7 +11,7 @@
   },
   "home": {
     "header": {
-      "title": "魔方简历",
+      "title": "简历",
       "startButton": "开始使用",
       "features": "功能特点",
       "pricing": "定价",
@@ -23,7 +23,7 @@
     "hero": {
       "badge": "免费简历创作",
       "title": "让简历创作变得简单而智能",
-      "subtitle": "魔方简历利用 AI 技术，帮助您快速创建专业的简历。无需注册，免费使用，数据安全存储。",
+      "subtitle": "利用 AI 技术，帮助您快速创建专业的简历。无需注册，免费使用，数据安全存储。",
       "cta": "立即开始",
       "secondary": "浏览模板"
     },
